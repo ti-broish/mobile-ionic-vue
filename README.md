@@ -20,13 +20,15 @@ npm install
 
 # Стартиране 
 
+```
 cd ti-broish
 
 ionic serve
-
+```
 # Добавяне на мобилните приложения
 
 ```
 npm run build
+
 ionic capacitor add
 ```
