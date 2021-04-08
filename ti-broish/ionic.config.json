@@ -1,0 +1,7 @@
+{
+  "name": "Ti broish",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
